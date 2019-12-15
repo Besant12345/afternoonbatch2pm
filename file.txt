@@ -10,5 +10,8 @@
 
 </body>
 </html>
+<<<<<<< HEAD
 this is the first line
 second 
+=======
+>>>>>>> parent of 002d700... completed

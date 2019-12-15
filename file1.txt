@@ -6,7 +6,11 @@ this is fourth line
 this is fifth line
 this is six line
 this is seventh line
+<<<<<<< HEAD
 this is eight line
 nine
 =======
 >>>>>>> parent of 1a68051... completed the statement
+=======
+
+>>>>>>> parent of 002d700... completed
